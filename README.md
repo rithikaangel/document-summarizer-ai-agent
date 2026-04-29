@@ -31,7 +31,7 @@ and get an instant structured summary in seconds!
 
 ## 🔗 Project Link
 Built and deployed on WeaveMind AI:
-https://dashboard.weavemind.ai/p/riu/document-summarizer-ai-agent
+https://app.weavemind.ai/app#/p/riu/document-summarizer-ai-agent
 
 > Note: Login required to access the live demo
 
