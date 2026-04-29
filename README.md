@@ -36,7 +36,7 @@ and get an instant structured summary in seconds!
 4. Get your structured summary instantly!
 
 ## 📸 Screenshot
-![App Screenshot](./screenshot.png)
+![App Screenshot](./screenshot.jpg)
 
 ## 🙋 Author
 Rithika — [github.com/rithikaangel](https://github.com/rithikaangel)
