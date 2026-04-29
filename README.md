@@ -1,2 +1,44 @@
 # document-summarizer-ai-agent
 An AI agent that summarizes PDF, DOCX, and TXT documents instantly
+
+# 📄 Document Summarizer AI Agent
+
+An AI-powered agent that instantly reads and summarizes 
+long documents in multiple formats — built with Claude AI.
+
+## 🚀 Live Demo
+[Click here to try it](https://dashboard.weavemind.ai/p/riu/document-summarizer-ai-agent)
+
+## ✨ Features
+- 📁 Upload PDF, DOCX, and TXT files
+- 🔗 Paste any file URL directly
+- 📝 Multiple summary formats:
+  - Bullet Points
+  - TL;DR
+  - Executive Summary
+  - Section-wise Summary
+  - Action Items
+  - Q&A Mode
+- ⚡ Instant results powered by Claude AI
+- 🎨 Clean and minimal UI
+
+## 🛠️ Built With
+- WeaveMind AI
+- Claude AI (Anthropic)
+- LangChain
+
+## 💡 How It Works
+1. Upload your document or paste a URL
+2. Choose your preferred summary format
+3. Hit Summarize
+4. Get your structured summary instantly!
+
+## 📸 Screenshot
+![App Screenshot](./screenshot.png)
+
+## 🙋 Author
+Rithika — [github.com/rithikaangel](https://github.com/rithikaangel)
+
+## 📌 Note
+This is my first AI project — built as part of my journey 
+into AI agent development. More projects coming soon! 🚀
