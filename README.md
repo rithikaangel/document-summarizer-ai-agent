@@ -29,6 +29,12 @@ and get an instant structured summary in seconds!
 - Claude AI (Anthropic)
 - LangChain
 
+## 🔗 Project Link
+Built and deployed on WeaveMind AI:
+https://dashboard.weavemind.ai/p/riu/document-summarizer-ai-agent
+
+> Note: Login required to access the live demo
+
 ## 💡 How It Works
 1. Upload your document or paste a URL
 2. Choose your preferred summary format
