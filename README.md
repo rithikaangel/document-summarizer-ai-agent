@@ -42,5 +42,5 @@ and get an instant structured summary in seconds!
 Rithika — [github.com/rithikaangel](https://github.com/rithikaangel)
 
 ## 📌 Note
-This is my first AI project — built as part of my journey 
+This is my first AI project!!! Built as part of my journey 
 into AI agent development. More projects coming soon! 🚀
